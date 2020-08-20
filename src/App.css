@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+.App {
+  font-family: 'Indie Flower', cursive;
+  background-color: #282c34;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+hr {
+  width:30%;
+  margin:0 auto;
+}
+
+.CoinBox {
+  min-height: 60vh;
+  max-width: 50vh;
+  width: 50%;
+  margin-right: 1em;
+  background: #303338;
+  box-shadow: -10px 0px 10px 1px #020101;
+  text-align: center;
+}
+
+.CoinContent {
+  padding-top: 1em;
+}
+
+.ExchangeName {
+  font-size: 1.5em;
+}
+
+.Prices {
+  margin-top: 1em;
+}
+
+.MainContent {
+  display: flex;
+  padding-top: 10vh;
+  padding-left: 7vh;
+  padding-right: 2vh;
+  width: 800px; 
+  margin: auto;
+}
+
+.BoxHolder {
+  padding-right: 5px;
+}
+
+.TextContent {
+  margin-left: 1em;
+  max-width: 20vh;
+  max-height: 20vh;
+}

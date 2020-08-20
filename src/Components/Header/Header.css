@@ -1,0 +1,14 @@
+.Header {
+  font-family: 'Indie Flower', cursive;
+  background-color: #282c34;
+  text-align: center;
+  font-size: 7vh;
+}
+
+.SubHeader {
+  font-family: 'Indie Flower', cursive;
+  background-color: #282c34;
+  text-align: center;
+  font-size: 3vh;
+  padding-bottom: 2vh;
+}
